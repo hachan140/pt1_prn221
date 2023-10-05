@@ -1,0 +1,46 @@
+﻿<Window x:Class="EmployeeDetail02.Views.Order"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeeDetail02.Views"
+        mc:Ignorable="d"
+        Title="Order" Height="450" Width="800">
+    <Grid>
+        <StackPanel Background="LightBlue" Orientation ="Vertical"
+                            HorizontalAlignment="Left" Width="400">
+            <Label Name="lbTitle" Foreground="Red" FontWeight="DemiBold" FontSize="20" Content="Order"/>
+            <Label Name="lbOrderID" Content="OrderID"/>
+            <TextBox Name="txtOrderID" HorizontalAlignment="Stretch"
+                            Height="25"
+                            Text="{Binding Path=OrderId, Mode=OneWay}"
+                            DataContext="{Binding ElementName=lvCars,
+                            Path=SelectedItem}" />
+            <Label Name="lbDate" Content="Date" />
+            <TextBox Name="txtDate" HorizontalAlignment="Stretch"
+                            Height="25"
+           
+                            Text="{Binding Path=Date, Mode=OneWay, StringFormat={}{0:dd/MM/yyyy}}"
+                            DataContext="{Binding ElementName=lvCars,
+                    Path=SelectedItem}" />
+            <Label Name="lbCustomerID" Content="CustomerID" />
+            <TextBox Name="txtCustomerID" HorizontalAlignment="Stretch"
+                            Height="25"
+                            Text="{Binding Path=CustomerId, Mode=OneWay}"
+                            DataContext="{Binding ElementName=lvCars,
+                    Path=SelectedItem}" />
+            <Label Name="lbTotalPayment" Content="TotalPayment" />
+            <TextBox Name="txtTotalPayment" HorizontalAlignment="Stretch"
+                            Height="25"
+                            Text="{Binding
+                            Path=TotalPayment,StringFormat={}{0:N3}, Mode=OneWay}"
+                            DataContext="{Binding ElementName=lvCars,
+                            Path=SelectedItem}" />
+        </StackPanel>
+        <Button Content="OrderDetail" Click="btnOrderDetail_Click" HorizontalAlignment="Left" Margin="37,281,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.429,-0.499" Height="24" Width="81"/>
+        <TextBox Name="txtFindOrder" HorizontalAlignment="Left" Margin="583,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="FindOrder" HorizontalAlignment="Left" Margin="583,98,0,0" VerticalAlignment="Top" Click="btnFindOrder_Click"/>
+        <Label Content="Discount: " HorizontalAlignment="Left" Margin="583,162,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txtDiscount" HorizontalAlignment="Left" Margin="651,166,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

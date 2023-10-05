@@ -1,0 +1,60 @@
+﻿<Window x:Class="EmployeeDetail01.Views.WFEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeeDetail01.Views"
+        mc:Ignorable="d"
+        Title="WFEmployee" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Content="ID:" Grid.Row="0" Grid.Column="0" Margin="3 3 0 3"/>
+        <TextBox x:Name="txtID" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" Width="200"
+    Margin="3 3 3 3" Text="{Binding Id}" DataContext="{Binding SelectedItem, ElementName=lstView}"  />
+        <Label Content="Name:" Grid.Row="1" Grid.Column="0" Margin="3 3 0 3"/>
+        <TextBox x:Name="txtName" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" Width="200"
+    Margin="3 3 3 3" Text="{Binding Name}" DataContext="{Binding SelectedItem, ElementName=lstView}" />
+        <Label Content="Age:" Grid.Row="2" Grid.Column="0" Margin="3 3 0 3"/>
+        <TextBox x:Name="txtAge" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" Width="200"
+    Margin="3 3 3 3" Text="{Binding Age}" DataContext="{Binding SelectedItem, ElementName=lstView}"/>
+        <Label Content="Gender:" Grid.Row="3" Grid.Column="0" Margin="3 3 0 3"/>
+        <TextBox x:Name="txtGender" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left" Width="200"
+    Margin="3 3 3 3" Text="{Binding Gender}" DataContext="{Binding SelectedItem, ElementName=lstView}"/>
+        <Label Content="Address:" Grid.Row="4" Grid.Column="0" Margin="3 3 0 3"/>
+        <TextBox x:Name="txtAddress" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left" Width="200"
+    Margin="3 3 3 3" Text="{Binding Address}" DataContext="{Binding SelectedItem, ElementName=lstView}"        />
+        <Button x:Name="btnLoad" Content="Load"  HorizontalAlignment="Left" Margin="50 10 10 10" Width="80" Grid.Row="5" Grid.ColumnSpan="2"
+    Click="btnLoad_Click"        />
+        <Button x:Name="btnAdd" Content="Add"  HorizontalAlignment="Left" Margin="150 10 10 10" Width="80" Grid.Row="5" Grid.ColumnSpan="2"
+    Click="btnAdd_Click"/>
+        <Button x:Name="btnUpdate" Content="Update"  HorizontalAlignment="Left" Margin="250 10 10 10" Width="80" Grid.Row="5" Grid.ColumnSpan="2"
+    Click="btnUpdate_Click"/>
+        <Button x:Name="btnDelete" Content="Delete"  HorizontalAlignment="Left" Margin="250,10,0,0" Width="80" Grid.Row="5"
+    Click="btnDele_click" Grid.Column="1" Height="20" VerticalAlignment="Top"/>
+        <ListView x:Name="lstView" ItemsSource="{Binding LstEmployeeDetail}" Grid.Row="6" Grid.ColumnSpan="2">
+            <ListView.View >
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Width="80" Header="ID" DisplayMemberBinding="{Binding Id}"></GridViewColumn>
+                        <GridViewColumn Width="180" Header="Name" DisplayMemberBinding="{Binding Name}"></GridViewColumn>
+                        <GridViewColumn Width="80" Header="Age" DisplayMemberBinding="{Binding Age}"></GridViewColumn>
+                        <GridViewColumn Width="80" Header="Gender" DisplayMemberBinding="{Binding Gender}"></GridViewColumn>
+                        <GridViewColumn Width="350" Header="Address" DisplayMemberBinding="{Binding Address}"></GridViewColumn>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

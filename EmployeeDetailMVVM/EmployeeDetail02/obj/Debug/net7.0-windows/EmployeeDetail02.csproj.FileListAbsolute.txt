@@ -1,0 +1,197 @@
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.exe
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.deps.json
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.runtimeconfig.json
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.pdb
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\App.g.cs
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02_MarkupCompile.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02_MarkupCompile.lref
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.g.resources
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.GeneratedMSBuildEditorConfig.editorconfig
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.AssemblyInfoInputs.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.AssemblyInfo.cs
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.csproj.CoreCompileInputs.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\refint\EmployeeDetail02.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.pdb
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.genruntimeconfig.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\ref\EmployeeDetail02.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Humanizer.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.csproj.AssemblyReference.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.csproj.CopyComplete
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\Views\Employee.g.cs
+E:\CF\PRN221\Examo1631\W5\EmployeeDetail\EmployeeDetail02\obj\Debug\net7.0-windows\Views\Employee.baml
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.exe
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.deps.json
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.runtimeconfig.json
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.pdb
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Humanizer.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.csproj.AssemblyReference.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\Views\Employee.g.cs
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\App.g.cs
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02_MarkupCompile.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02_MarkupCompile.lref
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\Views\Employee.baml
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.g.resources
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.GeneratedMSBuildEditorConfig.editorconfig
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.AssemblyInfoInputs.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.AssemblyInfo.cs
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.csproj.CoreCompileInputs.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.csproj.CopyComplete
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\refint\EmployeeDetail02.dll
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.pdb
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.genruntimeconfig.cache
+E:\CF\PRN221\Examo1631\W5\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\ref\EmployeeDetail02.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.exe
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.deps.json
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\EmployeeDetail02.pdb
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\Views\Employee.g.cs
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02_MarkupCompile.cache
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02_MarkupCompile.lref
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\Views\Employee.baml
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.g.resources
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\refint\EmployeeDetail02.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.pdb
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\EmployeeDetail02.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\ref\EmployeeDetail02.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\Views\Order.g.cs
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\Views\OrderDetail.g.cs
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\Views\Order.baml
+C:\Users\Admin\OneDrive\Máy tính\7_Fall23_Sem7\2_PRN221\assignment\EmployeeDetailMVVM\EmployeeDetail02\obj\Debug\net7.0-windows\Views\OrderDetail.baml
